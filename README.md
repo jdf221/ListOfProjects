@@ -29,7 +29,7 @@ The main screen shows your current balance at the top of the screen and provides
 ___
 
 ## DIY Internet Connected Garage Door
-* **Technology:** Hardware: Arduino, RaspberryPi, 5V Relay, Proximity sensor. Software: ExpressJS, C (Arduino)  
+* **Technology:** Hardware: Arduino, RaspberryPi, 5V Relay, Proximity sensor. Software: ExpressJS, C++ (Arduino)  
 * **Inspiration:** I bought an Arduino starter kit and this was my first real project after learning how to blink an LED. The hardest part of this project was trying to take apart the garage door remote without breaking it.  
 * **Info:** This was a project just for me to start out with on the Arduino. It exposes 2 API endpoints `getGarageStatus` & `toggleGarage`. I later modified it to provide exact progress of the garage door opening and closing (Using the proximity sensor)  
 
