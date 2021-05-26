@@ -1,12 +1,13 @@
 # Jared's Projects
 
+1. [**AchieveCraft**](https://github.com/jdf221/AchieveCraft) - PHP, MongoDB, dynamic image generation - Generated Minecraft achievement popup images, these were popular to put in forum signatures. Uses PHP GD library to add dynamic text and icon ontop of a template image.
 1. [**Concession Stand Cash Register/App**](#Concession-Stand-Cash-RegisterApp) - Javascript, Framework7 - Simple cash register app that has buttons for each item and automatically calculates total price and change due.
-2. [**Monopoly Bank App**](#Monopoly-Bank-App) - Javascript, Framework7 - App that keeps track of player's banks in a Monopoly game and allows money to be sent between users. Contains a transaction log because my family cheats.
-3. [**DIY Internet Connected Garage Door**](#DIY-Internet-Connected-Garage-Door) - Arduino - First project I did with an Arduino, connected to my garage door remote and allowed me to control the garage via a web API.
-4. [**School Grade Notifier**](#School-Grade-Notifier) - Javascript/NodeJS, Puppeteer - Web scraper that loaded my school's grading website and sent me notifications when a grade was updated.
-5. [**College Schedule Utilities**](#College-Schedule-Utilities) - Javascript, Chrome Extension - Tool I made that automatically created a .ics calendar file from my class schedule and generated binder cover sheets for each class.
-6. [**Among Us Reverse Proxy**](#Among-Us-Reverse-Proxy) - Javascript/NodeJS - Script that intercepts Among Us game UDP packets and allows them to be modified.
-7. [**Computer Craft Wireless Peripheral**](#Computer-Craft-Wireless-Peripheral) - Lua - Script that allows computers added to Minecraft from the mod Computer Craft to interact with blocks wirelessly.
+1. [**Monopoly Bank App**](#Monopoly-Bank-App) - Javascript, Framework7 - App that keeps track of player's banks in a Monopoly game and allows money to be sent between users. Contains a transaction log because my family cheats.
+1. [**DIY Internet Connected Garage Door**](#DIY-Internet-Connected-Garage-Door) - Arduino - First project I did with an Arduino, connected to my garage door remote and allowed me to control the garage via a web API.
+1. [**School Grade Notifier**](#School-Grade-Notifier) - Javascript/NodeJS, Puppeteer - Web scraper that loaded my school's grading website and sent me notifications when a grade was updated.
+1. [**College Schedule Utilities**](#College-Schedule-Utilities) - Javascript, Chrome Extension - Tool I made that automatically created a .ics calendar file from my class schedule and generated binder cover sheets for each class.
+1. [**Among Us Reverse Proxy**](#Among-Us-Reverse-Proxy) - Javascript/NodeJS - Script that intercepts Among Us game UDP packets and allows them to be modified.
+1. [**Computer Craft Wireless Peripheral**](#Computer-Craft-Wireless-Peripheral) - Lua - Script that allows computers added to Minecraft from the mod Computer Craft to interact with blocks wirelessly.
 
 ## Concession Stand Cash Register/App
 * **Technology:** [Framework7](https://framework7.io/), Javascript, HTML. Intended to be saved as a web app or ran via Apache Cordova.
